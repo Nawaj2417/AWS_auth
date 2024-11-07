@@ -178,7 +178,7 @@ export default function Login() {
       </Box>
 
       <Typography sx={{ textAlign: "center", marginTop: "20px" }}>
-        If you don't have an account, then <Link href="/Signup" className='text-blue-500'>Signup</Link>
+        If you don&apos;t have an account, then <Link href="/Signup" className='text-blue-500'>Signup</Link>
       </Typography>
     </Box>
   );
